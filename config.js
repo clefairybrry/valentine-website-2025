@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Do You Love Me?🫦",                                    // First interaction
             yesBtn: "Yes, Mi Amor",                                             // Text for "Yes" button
             noBtn: "No (don't click)",                                               // Text for "No" button
-            secretAnswer: "Love You More ❤️"           // Secret hover message
+            secretAnswer: "🖤I Love You More So Much Mi Amor 🖤"           // Secret hover message
         },
         second: {
             text: "How Much Do You Love Me?",                          // For the love meter
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "Will you be my Valentine? 🌹", // The big question!
             yesBtn: "Yes King!",                                             // Text for "Yes" button
             noBtn: "No(ignore this button)"                                                 // Text for "No" button
         }
@@ -57,9 +57,9 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ffafbd",      // Gradient start (try pastel colors for a soft look)
+        backgroundStart: "#A53F2B",      // Gradient start (try pastel colors for a soft look)
         backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
+        buttonBackground: "#212227",     // Button color (should stand out against the background)
         buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#ff4757"             // Text color (make sure it's readable!)
     },
